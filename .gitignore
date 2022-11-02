@@ -1,0 +1,6 @@
+.DS_Store
+vue-frontend/node_modules
+.eslintrccjs
+.prettierrc.json
+dav
+.vscode
